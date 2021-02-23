@@ -4,4 +4,4 @@
 <h1 align="center">algorithmNote</h1>
 
 [GitHub](https://github.com/IsMrChen/algorithmNote)
-[开始阅读](https://github.com/IsMrChen/algorithmNote/#/README)
+[开始阅读](https://ismrchen.github.io/algorithmNote/#/README)
