@@ -4,3 +4,6 @@
 线上文档访问地址
 
 gitHub：[https://ismrchen.github.io/algorithmNote](https://ismrchen.github.io/algorithmNote)
+
+码云：[https://jongcychen.gitee.io/algorithmnote](https://jongcychen.gitee.io/algorithmnote)
+
